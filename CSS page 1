@@ -1,0 +1,76 @@
+body{
+    background-color:ghostwhite;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: darkcyan;
+    margin-right:-7px;
+    margin-left:-7px;
+   margin-top:-10px;
+   height:50px;
+    
+   
+}
+li:hover {
+    background-color: black;
+    padding: 10px;
+}
+li.pointer{
+    cursor:pointer;
+}
+li{
+    display:inline;
+    padding:120px;
+    color:whitesmoke;
+    height:100px;
+    cursor:pointer;
+}
+.nav {
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+.gta {
+    text-align:center;
+    text-size-adjust:100%;
+    margin-top:10px;
+}
+.gtatex {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.rdrtex {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.tloutex {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.minetex {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.utetex {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+.rdr{
+    text-align:center;
+}
+.tlou{
+    text-align:center;
+}
+.mine {
+    text-align: center;
+}
+.ute{
+    text-align:center;
+}
