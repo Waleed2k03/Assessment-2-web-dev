@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+</head>
+<body>
+    <link rel="stylesheet" href="StyleSheet.css" />
+
+    <div class="nav">
+        <ul>
+
+            <li><a href="htmlpage.html">Home</a></li>
+            <li><a href="htmlpage1.html">Gameplay</a></li>
+            <li><a href="htmlpage2.html">Plots</a></li>
+            <li><a href="htmlpage3.html">Trailer</a></li>
+            <li><a href="htmlpage4.html">reviews</a></li>
+        </ul>
+
+        <h1>Top 5 best games</h1>
+    </div>
+
+    <div class=" gta">
+        <img src="file:///C:/Users/Waleed/OneDrive/Desktop/gta.jpg">
+
+    </div>
+    <div class=" gtatex">
+        1. Grand Theft Auto 5
+    </div>
+    <div class=" rdr">
+        <img src="file:///C:/Users/Waleed/OneDrive/Desktop/rdr2.jpg" height="700">
+    </div>
+    <div class=" rdrtex">
+        2. Red Dead Redemption 2
+    </div>
+    <div class=" tlou">
+        <img src="file:///C:/Users/Waleed/OneDrive/Desktop/tlou.jpg">
+    </div>
+    <div class=" tloutex">
+        3. The Last Of Us
+    </div>
+    <div class=" mine">
+        <img src="file:///C:/Users/Waleed/OneDrive/Desktop/minecraft.webp" width="700">
+    </div>
+    <div class=" minetex">
+        4. Minecraft
+    </div>
+    <div class=" ute">
+        <img src="file:///C:/Users/Waleed/OneDrive/Desktop/ute.jpg">
+    </div>
+    <div class=" utetex">
+    5. Uncharted 4: A Theft's End
+    </div>
+</body>
+</html>
